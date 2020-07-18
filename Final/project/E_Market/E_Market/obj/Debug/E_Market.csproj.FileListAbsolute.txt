@@ -1,0 +1,581 @@
+F:\Asp.net Mvc\E_Market\E_Market\bin\E_Market.dll.config
+F:\Asp.net Mvc\E_Market\E_Market\bin\E_Market.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\E_Market.pdb
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\csc.exe
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\csc.exe.config
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\csc.rsp
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\csi.exe
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\csi.exe.config
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\csi.rsp
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.AppContext.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Collections.Immutable.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Console.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Globalization.Calendars.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.IO.Compression.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Net.Http.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Net.Sockets.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Reflection.Metadata.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.ValueTuple.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Xml.XPath.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\vbc.exe
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\vbc.exe.config
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\vbc.rsp
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe
+F:\Asp.net Mvc\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe.config
+F:\Asp.net Mvc\E_Market\E_Market\bin\Antlr3.Runtime.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\EntityFramework.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\EntityFramework.SqlServer.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\Microsoft.Web.Infrastructure.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\Newtonsoft.Json.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Helpers.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Mvc.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Optimization.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Razor.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.WebPages.Deployment.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.WebPages.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.WebPages.Razor.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\WebGrease.dll
+F:\Asp.net Mvc\E_Market\E_Market\bin\EntityFramework.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\EntityFramework.SqlServer.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Helpers.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Mvc.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Optimization.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.Razor.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.WebPages.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.WebPages.Deployment.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\System.Web.WebPages.Razor.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\Newtonsoft.Json.xml
+F:\Asp.net Mvc\E_Market\E_Market\bin\Antlr3.Runtime.pdb
+F:\Asp.net Mvc\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Asp.net Mvc\E_Market\E_Market\obj\Debug\E_Market.csprojAssemblyReference.cache
+F:\Asp.net Mvc\E_Market\E_Market\obj\Debug\E_Market.csproj.CoreCompileInputs.cache
+F:\Asp.net Mvc\E_Market\E_Market\obj\Debug\E_Market.csproj.CopyComplete
+F:\Asp.net Mvc\E_Market\E_Market\obj\Debug\E_Market.dll
+F:\Asp.net Mvc\E_Market\E_Market\obj\Debug\E_Market.pdb
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\E_Market.dll.config
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\E_Market.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\E_Market.pdb
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\csc.exe
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\csc.exe.config
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\csc.rsp
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\csi.exe
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\csi.exe.config
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\csi.rsp
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.AppContext.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Collections.Immutable.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Console.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Globalization.Calendars.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.IO.Compression.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Net.Http.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Net.Sockets.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Reflection.Metadata.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.ValueTuple.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Xml.XPath.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\vbc.exe
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\vbc.exe.config
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\vbc.rsp
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe.config
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\Antlr3.Runtime.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\EntityFramework.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\EntityFramework.SqlServer.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\Microsoft.Web.Infrastructure.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\Newtonsoft.Json.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Helpers.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Mvc.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Optimization.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Razor.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.WebPages.Deployment.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.WebPages.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.WebPages.Razor.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\WebGrease.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\EntityFramework.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\EntityFramework.SqlServer.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Helpers.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Mvc.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Optimization.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.Razor.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.WebPages.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.WebPages.Deployment.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\System.Web.WebPages.Razor.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\Newtonsoft.Json.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\Antlr3.Runtime.pdb
+F:\Asp.net Mvc\Important\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Asp.net Mvc\Important\E_Market\E_Market\obj\Debug\E_Market.csprojAssemblyReference.cache
+F:\Asp.net Mvc\Important\E_Market\E_Market\obj\Debug\E_Market.csproj.CoreCompileInputs.cache
+F:\Asp.net Mvc\Important\E_Market\E_Market\obj\Debug\E_Market.csproj.CopyComplete
+F:\Asp.net Mvc\Important\E_Market\E_Market\obj\Debug\E_Market.dll
+F:\Asp.net Mvc\Important\E_Market\E_Market\obj\Debug\E_Market.pdb
+F:\IA_Project\E_Market\E_Market\bin\E_Market.dll.config
+F:\IA_Project\E_Market\E_Market\bin\E_Market.dll
+F:\IA_Project\E_Market\E_Market\bin\E_Market.pdb
+F:\IA_Project\E_Market\E_Market\bin\roslyn\csc.exe
+F:\IA_Project\E_Market\E_Market\bin\roslyn\csc.exe.config
+F:\IA_Project\E_Market\E_Market\bin\roslyn\csc.rsp
+F:\IA_Project\E_Market\E_Market\bin\roslyn\csi.exe
+F:\IA_Project\E_Market\E_Market\bin\roslyn\csi.exe.config
+F:\IA_Project\E_Market\E_Market\bin\roslyn\csi.rsp
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.Managed.Core.targets
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IA_Project\E_Market\E_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.AppContext.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Collections.Immutable.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Console.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Globalization.Calendars.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.IO.Compression.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Net.Http.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Net.Sockets.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Reflection.Metadata.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.ValueTuple.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Xml.XmlDocument.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\IA_Project\E_Market\E_Market\bin\roslyn\vbc.exe
+F:\IA_Project\E_Market\E_Market\bin\roslyn\vbc.exe.config
+F:\IA_Project\E_Market\E_Market\bin\roslyn\vbc.rsp
+F:\IA_Project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe
+F:\IA_Project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe.config
+F:\IA_Project\E_Market\E_Market\bin\Antlr3.Runtime.dll
+F:\IA_Project\E_Market\E_Market\bin\EntityFramework.dll
+F:\IA_Project\E_Market\E_Market\bin\EntityFramework.SqlServer.dll
+F:\IA_Project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IA_Project\E_Market\E_Market\bin\Microsoft.Web.Infrastructure.dll
+F:\IA_Project\E_Market\E_Market\bin\Newtonsoft.Json.dll
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Helpers.dll
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Mvc.dll
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Optimization.dll
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Razor.dll
+F:\IA_Project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.dll
+F:\IA_Project\E_Market\E_Market\bin\System.Web.WebPages.dll
+F:\IA_Project\E_Market\E_Market\bin\System.Web.WebPages.Razor.dll
+F:\IA_Project\E_Market\E_Market\bin\WebGrease.dll
+F:\IA_Project\E_Market\E_Market\bin\EntityFramework.xml
+F:\IA_Project\E_Market\E_Market\bin\EntityFramework.SqlServer.xml
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Helpers.xml
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Mvc.xml
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Optimization.xml
+F:\IA_Project\E_Market\E_Market\bin\System.Web.Razor.xml
+F:\IA_Project\E_Market\E_Market\bin\System.Web.WebPages.xml
+F:\IA_Project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.xml
+F:\IA_Project\E_Market\E_Market\bin\System.Web.WebPages.Razor.xml
+F:\IA_Project\E_Market\E_Market\bin\Newtonsoft.Json.xml
+F:\IA_Project\E_Market\E_Market\bin\Antlr3.Runtime.pdb
+F:\IA_Project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IA_Project\E_Market\E_Market\obj\Debug\E_Market.csprojAssemblyReference.cache
+F:\IA_Project\E_Market\E_Market\obj\Debug\E_Market.csproj.CoreCompileInputs.cache
+F:\IA_Project\E_Market\E_Market\obj\Debug\E_Market.csproj.CopyComplete
+F:\IA_Project\E_Market\E_Market\obj\Debug\E_Market.dll
+F:\IA_Project\E_Market\E_Market\obj\Debug\E_Market.pdb
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\E_Market.dll.config
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\E_Market.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\E_Market.pdb
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\csc.exe
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\csc.exe.config
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\csc.rsp
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\csi.exe
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\csi.exe.config
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\csi.rsp
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Console.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\vbc.exe
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\vbc.rsp
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\Antlr3.Runtime.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\EntityFramework.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\Newtonsoft.Json.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Helpers.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Mvc.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Optimization.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Razor.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.WebPages.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\WebGrease.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\EntityFramework.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Helpers.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Mvc.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Optimization.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.Razor.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.WebPages.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\Newtonsoft.Json.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\Antlr3.Runtime.pdb
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\obj\Debug\E_Market.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CopyComplete
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\obj\Debug\E_Market.dll
+C:\Users\ahmed\Desktop\project\E_Market\E_Market\obj\Debug\E_Market.pdb
+H:\project\E_Market\E_Market\bin\E_Market.dll.config
+H:\project\E_Market\E_Market\bin\E_Market.dll
+H:\project\E_Market\E_Market\bin\E_Market.pdb
+H:\project\E_Market\E_Market\bin\roslyn\csc.exe
+H:\project\E_Market\E_Market\bin\roslyn\csc.exe.config
+H:\project\E_Market\E_Market\bin\roslyn\csc.rsp
+H:\project\E_Market\E_Market\bin\roslyn\csi.exe
+H:\project\E_Market\E_Market\bin\roslyn\csi.exe.config
+H:\project\E_Market\E_Market\bin\roslyn\csi.rsp
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.Managed.Core.targets
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\project\E_Market\E_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.AppContext.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Collections.Immutable.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Console.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Globalization.Calendars.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Net.Http.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Net.Sockets.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Reflection.Metadata.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.ValueTuple.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Xml.XmlDocument.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.dll
+H:\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\project\E_Market\E_Market\bin\roslyn\vbc.exe
+H:\project\E_Market\E_Market\bin\roslyn\vbc.exe.config
+H:\project\E_Market\E_Market\bin\roslyn\vbc.rsp
+H:\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe
+H:\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe.config
+H:\project\E_Market\E_Market\bin\Antlr3.Runtime.dll
+H:\project\E_Market\E_Market\bin\EntityFramework.dll
+H:\project\E_Market\E_Market\bin\EntityFramework.SqlServer.dll
+H:\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\project\E_Market\E_Market\bin\Microsoft.Web.Infrastructure.dll
+H:\project\E_Market\E_Market\bin\Newtonsoft.Json.dll
+H:\project\E_Market\E_Market\bin\System.Web.Helpers.dll
+H:\project\E_Market\E_Market\bin\System.Web.Mvc.dll
+H:\project\E_Market\E_Market\bin\System.Web.Optimization.dll
+H:\project\E_Market\E_Market\bin\System.Web.Razor.dll
+H:\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.dll
+H:\project\E_Market\E_Market\bin\System.Web.WebPages.dll
+H:\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.dll
+H:\project\E_Market\E_Market\bin\WebGrease.dll
+H:\project\E_Market\E_Market\bin\EntityFramework.xml
+H:\project\E_Market\E_Market\bin\EntityFramework.SqlServer.xml
+H:\project\E_Market\E_Market\bin\System.Web.Helpers.xml
+H:\project\E_Market\E_Market\bin\System.Web.Mvc.xml
+H:\project\E_Market\E_Market\bin\System.Web.Optimization.xml
+H:\project\E_Market\E_Market\bin\System.Web.Razor.xml
+H:\project\E_Market\E_Market\bin\System.Web.WebPages.xml
+H:\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.xml
+H:\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.xml
+H:\project\E_Market\E_Market\bin\Newtonsoft.Json.xml
+H:\project\E_Market\E_Market\bin\Antlr3.Runtime.pdb
+H:\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\project\E_Market\E_Market\obj\Debug\E_Market.csprojAssemblyReference.cache
+H:\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CoreCompileInputs.cache
+H:\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CopyComplete
+H:\project\E_Market\E_Market\obj\Debug\E_Market.dll
+H:\project\E_Market\E_Market\obj\Debug\E_Market.pdb
+F:\IA_Project\New\project\E_Market\E_Market\bin\E_Market.dll.config
+F:\IA_Project\New\project\E_Market\E_Market\bin\E_Market.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\E_Market.pdb
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\csc.exe
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\csc.exe.config
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\csc.rsp
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\csi.exe
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\csi.exe.config
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\csi.rsp
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.Managed.Core.targets
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.AppContext.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Collections.Immutable.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Console.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Globalization.Calendars.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Net.Http.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Net.Sockets.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Reflection.Metadata.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.ValueTuple.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Xml.XmlDocument.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\vbc.exe
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\vbc.exe.config
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\vbc.rsp
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe
+F:\IA_Project\New\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe.config
+F:\IA_Project\New\project\E_Market\E_Market\bin\Antlr3.Runtime.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\EntityFramework.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\EntityFramework.SqlServer.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\Microsoft.Web.Infrastructure.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\Newtonsoft.Json.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Helpers.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Mvc.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Optimization.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Razor.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.WebPages.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\WebGrease.dll
+F:\IA_Project\New\project\E_Market\E_Market\bin\EntityFramework.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\EntityFramework.SqlServer.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Helpers.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Mvc.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Optimization.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.Razor.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.WebPages.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\Newtonsoft.Json.xml
+F:\IA_Project\New\project\E_Market\E_Market\bin\Antlr3.Runtime.pdb
+F:\IA_Project\New\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IA_Project\New\project\E_Market\E_Market\obj\Debug\E_Market.csprojAssemblyReference.cache
+F:\IA_Project\New\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CoreCompileInputs.cache
+F:\IA_Project\New\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CopyComplete
+F:\IA_Project\New\project\E_Market\E_Market\obj\Debug\E_Market.dll
+F:\IA_Project\New\project\E_Market\E_Market\obj\Debug\E_Market.pdb
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\E_Market.dll.config
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\E_Market.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\E_Market.pdb
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\csc.exe
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\csc.exe.config
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\csc.rsp
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\csi.exe
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\csi.exe.config
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\csi.rsp
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.AppContext.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Console.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Net.Http.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Net.Sockets.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.ValueTuple.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\vbc.exe
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\vbc.exe.config
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\vbc.rsp
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\Antlr3.Runtime.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\EntityFramework.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\EntityFramework.SqlServer.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\Newtonsoft.Json.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Helpers.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Mvc.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Optimization.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Razor.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.WebPages.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\WebGrease.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\EntityFramework.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\EntityFramework.SqlServer.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Helpers.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Mvc.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Optimization.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.Razor.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.WebPages.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.WebPages.Deployment.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\System.Web.WebPages.Razor.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\Newtonsoft.Json.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\Antlr3.Runtime.pdb
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\obj\Debug\E_Market.csprojAssemblyReference.cache
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CoreCompileInputs.cache
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\obj\Debug\E_Market.csproj.CopyComplete
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\obj\Debug\E_Market.dll
+C:\Users\akram\OneDrive\Desktop\Final\project\E_Market\E_Market\obj\Debug\E_Market.pdb

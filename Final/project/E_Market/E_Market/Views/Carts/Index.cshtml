@@ -1,0 +1,65 @@
+﻿@model IEnumerable<E_Market.Models.Cart>
+
+@{
+    ViewBag.Title = "Index";
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container"style="margin-right:100;margin-top:1000;">
+    <div class="row">
+        <div class="col-xs-12">
+           <a class="btn btn-primary btn-sm"data-target="#products_list"data-toggle="modal">add product to cart </a>
+            <div class="modal"id="products_list"tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button class="close"data-dismiss="modal"style="margin-right:100;margin-top:1000;">&times;</button>
+                            <p>cart list</p>
+
+                        </div>
+                        <div class="modal-body">
+                           
+                            <h2  style="margin-left:35%;font-weight:bold;font-size:40px">cart list</h2>
+
+                           
+
+                            <table class="table">
+                                
+
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                          product name :  @Html.DisplayFor(modelItem => item.Product.name)+Product price : @Html.DisplayFor(modelItem => item.Product.price)+added time :  @Html.DisplayFor(modelItem => item.added_at)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Product.name)
+                                        </td>
+                                        <td>
+                                            @using (Html.BeginForm("Delete", "carts", new { id = item.product_id }))
+                                            {
+                                                @Html.AntiForgeryToken()
+
+                                                <div class="form-actions no-color">
+                                                    <input type="submit" value="Delete" class="btn btn-default" />
+
+                                                </div>
+                                            }
+                                        </td>
+                                    </tr>
+                                }
+
+                            </table>
+
+
+                        </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+

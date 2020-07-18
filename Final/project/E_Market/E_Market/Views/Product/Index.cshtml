@@ -1,0 +1,52 @@
+﻿@model IEnumerable<E_Market.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/Style1.css" rel="stylesheet" />
+
+<div class="search">
+    <div class="w">
+        <div class="SearchForm l">
+            @using (Html.BeginForm())
+            {
+                <p>
+                    Filter :&nbsp;&nbsp;&nbsp;@Html.TextBox("searchtext")
+                    <button class="bot" type="button" onclick="location.href='@Url.Action("Create", "Product")'">ADD PRODUCT</button>
+                </p>
+            }
+        </div>
+    </div>
+</div>
+<br />
+
+<table class="table">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-4 col-md-2 col-lg-2 col-xs-6">
+            <div class="thumbnail">
+                <a href="@Url.Action("Details","Product",new { id=item.id })">
+                    <div class="thumbnail">
+                        <img src="@Url.Content(item.image)" style="height:200px;width:90%" />
+                        <div class="caption">
+                            <h5 style="font-weight:bold">@item.name</h5>
+                            <p>@item.price EGP</p>
+                            <p></p>
+                        </div>
+                    </div>
+                </a>
+                <div class="form-actions no-color">
+                    @using (Html.BeginForm("addtocart", "Product", new { product_id = item.id}, FormMethod.Post)) {
+                    <input type="submit" value="add to cart" class="btn btn-default" @*onclick="location.href='@Url.Action("Create", "Carts", new { id = item.id })'"*@ style="width:100%" />
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</table>
+
+
+
+
+

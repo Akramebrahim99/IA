@@ -1,0 +1,17 @@
+﻿@model E_Market.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="text-center" style="background-color:lightgray;height:60px;font-size:40px">@Html.DisplayFor(model => model.name) - @Html.DisplayFor(model => model.price) EGP (@Html.DisplayFor(model => model.Category.name)) </div>
+<div class="text-center">
+    <img src="@Url.Content(Model.image)" style="width:50%;height:400px" />
+</div>
+<div class="text-center" style="background-color:aquamarine;height:40px; font-size:20px">@Html.DisplayFor(model => model.description)</div>
+
+<div>
+    <button type="button" onclick="location.href='@Url.Action("Edit", "Product",new { id=Model.id })'" class="btn btn-default " style="background-color:limegreen;width:150px;margin-left:28%;margin-top:1%;font-weight:600;">Update</button>
+    <button type="button" onclick="location.href='@Url.Action("delete", "Product",new { id=Model.id })'"class="btn btn-default " style="background-color:red;width:150px;margin-left:17%;margin-top:1%;font-weight:600;">Delete</button>
+</div>
+<br />
